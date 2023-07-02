@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(8, 3, 71);
+}
+
+.image-container .image-desc {
+  color: rgb(4, 215, 4);
+  font-family: "Audiowide", cursive;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.image-container {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+.total-output {
+  color: rgb(0, 247, 214);
+  font-family: "Orbitron", sans-serif;
+  align-self: flex-start;
+}
